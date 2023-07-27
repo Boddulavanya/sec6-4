@@ -1,0 +1,3 @@
+C:\Users\Dell\Desktop\practice exercises\simplilearn\assingment\day-14\ConAppprojects\ConAppprojects\obj\Debug\ConAppprojects.csproj.AssemblyReference.cache
+C:\Users\Dell\Desktop\practice exercises\simplilearn\assingment\day-14\ConAppprojects\ConAppprojects\obj\Debug\ConAppprojects.csproj.SuggestedBindingRedirects.cache
+C:\Users\Dell\Desktop\practice exercises\simplilearn\assingment\day-14\ConAppprojects\ConAppprojects\obj\Debug\ConAppprojects.csproj.CoreCompileInputs.cache
